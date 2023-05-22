@@ -3,6 +3,8 @@
 
 A következő lépéseket dokumentálják egy osztott google docs állományban amit csatolnak a google classroom feladathoz.  
 
+Írják le a dokumentumban, kik tartoznak a csapathoz.
+
 2. A kitalált feladat sprcifikációját írják le a dokumentumban!  
 3. Készítsék el a Model, ViewModel és View réteg tervét a dokumentumban!  
 4. Írják meg a kódot! Minden réteget és az előkészítést külön branchben készítsék el!  
